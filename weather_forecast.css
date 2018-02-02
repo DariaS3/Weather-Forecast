@@ -19,10 +19,11 @@ h1 {
 }
 ul{
 	padding: 0;
+	border: 2px solid #ffffff;
 }
 .sheet li {
 	display: inline-block;
-	/* border: 4px solid #ffffff; */
+	border: 2px solid #ffffff;
 	font-size: 24px;
 	text-align: center;
 	box-sizing: border-box;
@@ -33,56 +34,56 @@ p.temperature {
 }
 ul li:nth-child(1) {
 	width: 50%;
-	border-left: 4px solid #ffffff;
+	/*border-left: 4px solid #ffffff;
 	border-top: 4px solid #ffffff;
 	border-right: 4px solid #ffffff;
-	background-color: #3399cc;
+	background-color: #3399cc;*/
 }
 ul li:nth-child(2) {
 	width: 25%;
-	border-top: 4px solid #ffffff;
+	/*border-top: 4px solid #ffffff;*/
 	background-color: #33cccc;
 }
 ul li:nth-child(3) {
 	width: 25%;
-	border-top: 4px solid #ffffff;
+	/*border-top: 4px solid #ffffff;
 	border-right: 4px solid #ffffff;
-	border-left: 4px solid #ffffff;
+	border-left: 4px solid #ffffff;*/
 	background-color: #996699;
 }
 ul li:nth-child(4) {
 	width: 25%;
-	border-top: 4px solid #ffffff;
+	/*border-top: 4px solid #ffffff;
 	border-right: 4px solid #ffffff;
 	border-bottom: 4px solid #ffffff;
-	border-left: 4px solid #ffffff;
+	border-left: 4px solid #ffffff;*/
 	background-color: #c24747;
 }
 ul li:nth-child(5) {
 	width: 25%;
-	border-top: 4px solid #ffffff;
+	/*border-top: 4px solid #ffffff;
 	border-right: 4px solid #ffffff;
-	border-bottom: 4px solid #ffffff;
+	border-bottom: 4px solid #ffffff;*/
 	background-color: #e2674a;
 }
 ul li:nth-child(6) {
 	width: 25%;
-	border-top: 4px solid #ffffff;
-	border-bottom: 4px solid #ffffff;
+	/*border-top: 4px solid #ffffff;
+	border-bottom: 4px solid #ffffff;*/
 	background-color: #ffcc66;
 }
 ul li:nth-child(7) {
 	width: 25%;
-	border-top: 4px solid #ffffff;
+	/*border-top: 4px solid #ffffff;
 	border-right: 4px solid #ffffff;
 	border-bottom: 4px solid #ffffff;
-	border-left: 4px solid #ffffff;
+	border-left: 4px solid #ffffff;*/
 	background-color: #99cc99;
 }
 ul li:nth-child(8) {
 	width: 25%;
-	border-right: 4px solid #ffffff;
-	border-left: 4px solid #ffffff;
+	/*border-right: 4px solid #ffffff;
+	border-left: 4px solid #ffffff;*/
 	background-color: #669999;
 }
 ul li:nth-child(9) {
@@ -91,16 +92,16 @@ ul li:nth-child(9) {
 }
 ul li:nth-child(10) {
 	width: 25%;
-	border-right: 4px solid #ffffff;
-	border-left: 4px solid #ffffff;
+	/*border-right: 4px solid #ffffff;
+	border-left: 4px solid #ffffff;*/
 	background-color: #339966;
 }
 ul li:nth-child(11) {
 	width: 100%;
-	border-top: 4px solid #ffffff;
+	/*border-top: 4px solid #ffffff;
 	border-right: 4px solid #ffffff;
 	border-bottom: 4px solid #ffffff;
-	border-left: 4px solid #ffffff;
+	border-left: 4px solid #ffffff;*/
 	background-color: #666699;
 }
 div + p {
